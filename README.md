@@ -1,3 +1,6 @@
+![image](https://github.com/kimssangman/react-threejs/assets/136281131/b85453c1-5fb8-4d1e-89d4-89e46a1c9478)
+
+
 # Three.sj 사용법
 
 ## install
