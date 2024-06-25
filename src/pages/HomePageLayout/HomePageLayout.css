@@ -1,0 +1,14 @@
+.homePageLayout_container {
+    width: 50%;
+    position: absolute;
+    left: 50%;
+    top: 50%;
+    transform: translate(-50%, -50%);
+    box-shadow: 0 2px 5px rgba(0, 0, 0, 0.1);
+}
+
+@media (max-width: 720px) {
+    .homePageLayout_container {
+        width: 100%;
+    }
+}
