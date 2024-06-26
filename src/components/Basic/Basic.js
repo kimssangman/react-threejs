@@ -22,7 +22,7 @@ function Basic() {
             <div className="">
                 <p>Bolt</p>
             </div>
-            <Canvas>
+            <Canvas className="basic_canvas">
                 <ambientLight intensity={1.5} />
                 <OrbitControls />
                 <Suspense fallback={null}>
