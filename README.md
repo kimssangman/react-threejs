@@ -1,6 +1,9 @@
 ![image](https://github.com/kimssangman/react-threejs/assets/136281131/b85453c1-5fb8-4d1e-89d4-89e46a1c9478)
 ![image](https://github.com/kimssangman/react-threejs/assets/136281131/bec78c56-be25-4e95-83be-a673e8d57840)
 ### 버튼 클릭 시 해당하는 이벤트를 동작합니다.
+화남 버튼 클릭의 예시)
+
+---------------
 
 # Three.sj 사용법
 
